@@ -1,0 +1,7 @@
+Department: Human Resources
+Employee [name=John Doe, id=101, salary=50000.0]
+Employee [name=Jane Smith, id=102, salary=60000.0]
+Department: Information Technology
+Employee [name=Michael Johnson, id=201, salary=70000.0]
+Employee [name=Emily Davis, id=202, salary=55000.0]
+
